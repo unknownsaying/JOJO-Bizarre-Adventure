@@ -17,8 +17,9 @@ Sub e
 End Sub
 
 Function f 
-e.a As Interger
+e.a As Integer
 e.b As Float
 e.c As Double
 e.d As Single
+
 End Function

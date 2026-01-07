@@ -7,6 +7,7 @@ Jutaro Kujo 空条承太郎
 Rohan Kishibe 岸边露伴
 Josuke Higashikata 东方仗助
 Lisa Lisa 丽莎
+Diavolo 迪亚波罗
 
 1 Phantom Blood 幻影之血
 2 Battle Tendency 战斗潮流

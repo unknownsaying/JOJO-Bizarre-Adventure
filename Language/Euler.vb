@@ -1,4 +1,3 @@
-
 Enum Euler
 const V = Vertice
 var E = Edge 
@@ -15,9 +14,11 @@ V = 12,E = 30,F = 20 As New Icosahedron
 End Module
 
 Function Surface
-
+    Sub Topology
+    End Sub
 End Function
 
 Function Volume
-
+    Sub Fractal
+    End Sub
 End Function
